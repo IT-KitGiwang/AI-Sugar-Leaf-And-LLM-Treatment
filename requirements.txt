@@ -4,3 +4,4 @@ google-generativeai
 streamlit
 pillow
 numpy
+google-genai
