@@ -11,7 +11,7 @@ from google.genai import types
 import torch.nn.functional as F
 
 # ==================== CẤU HÌNH API & BIẾN TOÀN CỤC ====================
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAEnU_oVz1A18oC_zmxNvg4XR1NzSJYgzo"
+os.environ["GOOGLE_API_KEY"] = "GOOGLE_API_KEY"
 API_KEY = os.getenv("GOOGLE_API_KEY")
 
 # Khởi tạo Session State chỉ cho các biến cần thiết
